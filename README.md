@@ -19,7 +19,10 @@ Few points worth mentioning regarding directory structure:
 Files
 --------------------------------------------------
 linear_regr_diabetes.ipynb - using diabetes dataset, predict the disease progression one year after the baseline
+
 linear_regr_house_sales.ipynb - Basic exercise for linear regression model, exploring RMSE, MAPE metrics 
+
 regr_feature_Selection.ipynb - Basic feature selection techniques
+
 classification_eval.ipynb - classfication evaluation metrics.
 
