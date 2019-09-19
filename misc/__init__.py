@@ -28,7 +28,12 @@ from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.feature_selection import SelectKBest
 from sklearn.feature_selection import chi2
 
+from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LinearRegression
+from sklearn.feature_selection import SelectKBest
+from sklearn.feature_selection import chi2
+from sklearn.decomposition import PCA
+from sklearn.preprocessing import StandardScaler
 # add to sys paths
 #sys.path.append('C:\\Users\\PAT\\Documents\\edwisor\\projects\\bigmart_sales')
 def rt_parent():
